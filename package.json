@@ -2,10 +2,13 @@
   "name": "glacier-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
-  "repository": "https://github.com/atom/glacier-syntax",
+  "description": "Glacier Syntax for Atom.io is a theme inspired by @joeyfigaro's Glacier for Sublime. Maintainers are [mattgraham](http://github.com/mattgraham)",
+  "repository": "https://github.com/mattgraham/glacier-syntax-atom",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
-  }
+  },
+	"bugs": {
+	"url": "https://github.com/mattgraham/glacier-syntax-atom/issues"
+	}
 }
