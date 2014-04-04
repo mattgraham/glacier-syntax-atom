@@ -1,6 +1,6 @@
 # Glacier UI for Atom
 
-Glacier Syntax **work in progress theme** for Atom.io is a theme inspired by @joeyfigaro's Glacier for Sublime. Maintainers are [mattgraham](http://github.com/mattgraham) and [joeyfigaro](http://github.com/joeyfigaro)
+Glacier Syntax **work in progress theme** for Atom.io is a theme inspired by @joeyfigaro's Glacier for Sublime
 
 ![Image](http://f.cl.ly/items/1s2U3f3E1z240j1K133a/Image%202014-04-03%20at%201.15.25%20PM.png)
 
@@ -27,3 +27,5 @@ If you want to contribute an enhancement or a fix:
 - Make your changes.
 - Commit the changes without making changes to any other files that aren't related to your enhancement or fix.
 - Send a pull request. 
+
+For anything else find me on twitter via [@michigangraham](http://twitter.com/michigangraham)
