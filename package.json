@@ -1,7 +1,7 @@
 {
-  "name": "Glacier Syntax Theme",
+  "name": "glacier-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Glacier for Atom.io is a simple and flat theme based on @joeyfigaro's theme for Sublime Text",
   "repository": "https://github.com/mattgraham/glacier-syntax-atom",
   "license": "MIT",
